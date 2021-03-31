@@ -1,0 +1,3 @@
+# little-scripts
+
+Short automations.
