@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from string import ascii_lowercase as al
 from termcolor import cprint
 a = 0
